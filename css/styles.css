@@ -1,0 +1,21 @@
+.input-number{
+    width: 100px;
+    border: 1px solid green;
+}
+body{
+    background-image: url("../imagenes./la-nube.jpg");
+    color: black;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+body.calculadora{
+    background: none !important;
+    color: white;
+}
+.a{
+    width: 500px;
+    height: 250px;
+    position: relative;
+}
